@@ -16,3 +16,8 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  
  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" alt="R" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">Favourite Youtube Videos:</h3> 
+<a href="https://youtu.be/Zo62S0ulqhA" target="_blank"><img src=https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e77007daaafb652bacbc73a3819f4165d39c06dd_1600x1200.jpg u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050.jpg" alt="What I learned from going blind in space | Chris Hadfield" width="280" height="190" border="1" /></a> <a href="https://youtu.be/WXuK6gekU1Y" target="_blank"><img src="https://pbs.twimg.com/media/DR4blG-X4AEx3Mw.jpg" 
+alt="AlphaGo - The Movie | Full award-winning documentary" width="280" height="190" border="1" /></a><a href="https://youtu.be/bdgTa9ni4S8" target="_blank"><img src="https://dotesports.com/wp-content/uploads/2019/08/07133442/againsttheodds_02-cover_landscape.jpg?resize=768,512.jpg" 
+alt="OG's comeback to win DOTA 2's TI8 | Against The Odds" width="280" height="190" border="1" /></a>
