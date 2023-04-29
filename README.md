@@ -2,7 +2,7 @@
 <h1 align="center">Why is a chemistry student doing here?</h1>
 <h3 align="center">It's simple. I love turning numbers into visuals, just like how I love drawing chemical structures.</h4>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4000&pause=1000&color=02E9EE&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+undergrad;An+aspiring+engineer+and+analyst;Technology%2C+Energy+%26+Pharmaceutical)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4000&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+undergrad;An+aspiring+engineer+and+analyst;Technology%2C+Energy+%26+Pharmaceutical)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juinxiantheofficial&label=Profile%20views&color=0e75b6&style=flat" alt="juinxiantheofficial" /> </p>
 
