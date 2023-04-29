@@ -16,7 +16,7 @@
 
 </p>
 
-<h2 align="left">	:pen:Programming Languages</h2>
+<h2 align="left">	:pen:  Programming Languages</h2>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" alt="R" width="40" height="40"/></a> 
 </p>
 
