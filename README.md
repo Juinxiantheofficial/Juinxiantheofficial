@@ -1,5 +1,5 @@
 
-<h1 align="center">:alembic:Why is a chemistry student doing here?:alembic:</h1>
+<h1 align="center">:alembic:Why is a chemistry major doing here?:alembic:</h1>
 <h3 align="center">It's simple. I love turning numbers into visuals, just like how I love drawing chemical structures.</h4>
 
 
