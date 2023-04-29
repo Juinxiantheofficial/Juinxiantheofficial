@@ -3,7 +3,7 @@
 <h3 align="center">It's simple. I love turning numbers into visuals, just like how I love drawing chemical structures.</h4>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4000&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+sophomore;An+aspiring+engineer+and+analyst;Technology%2C+Energy+%26+Pharmaceutical;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4000&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+sophomore;An+aspiring+engineer+and+analyst;Energy+%2C+Pharmaceutical+%26+Technology;)](https://git.io/typing-svg)
 
     Class AboutMe:
             def __init__(self, name: str, location: str, education: str, major: str, interest: list, langauge: list):
@@ -18,7 +18,7 @@
                 bio = f"""
                 Heyyy! I'm {self.name}, a {self.major} undergraduate in {self.education}, {location}. 
                 I'm proficient in {', '.join(self.languages)} as I started learning these languages in univeristy. 
-                My field of interest involes {', '.join(self.interest)} which I aspired to work in these field in near future. 
+                My field of interest involes {', '.join(self.interest)} which I aspired to work in these fields in near future. 
                   
                 return bio
         
