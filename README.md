@@ -19,7 +19,7 @@
                 bio = f"""
                 Heyyy! I'm {self.name}, a {self.major} undergraduate in {self.education}, {location}. 
                 Currently, I'm doing my research by {self.research}.
-                I'm proficient in {', '.join(self.languages)} as I started learning these languages in univeristy. 
+                I'm proficient in {', '.join(self.languages)} since I started learning these languages in university. 
                 My field of interest involes {', '.join(self.interest)} which I aspired to work in these fields in near future. 
                   
                 return bio
