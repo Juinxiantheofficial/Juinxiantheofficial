@@ -3,9 +3,38 @@
 <h3 align="center">It's simple. I love turning numbers into visuals, just like how I love drawing chemical structures.</h4>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4000&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+undergrad;An+aspiring+engineer+and+analyst;Technology%2C+Energy+%26+Pharmaceutical)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4000&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+sophomore;An+aspiring+engineer+and+analyst;Technology%2C+Energy+%26+Pharmaceutical;)](https://git.io/typing-svg)
 
+    Class AboutMe:
+            def __init__(self, name: str, location: str, education: str, major: str, interest: list, langauge: list):
+                self.name = name
+                self.location = location
+                self.education = edu
+                self.major = major
+                self.interest = interest
+                self.language = language
 
+            def generate_bio(self) -> str:
+                bio = f"""
+                Heyyy! I'm {self.name}, a {self.major} undergraduate in {self.education}, {location}. 
+                I'm proficient in {', '.join(self.languages)} as I started learning these languages in univeristy. 
+                My field of interest involes {', '.join(self.interest)} which I aspired to work in these field in near future. 
+                  
+                return bio
+        
+    about_me = AboutMe(
+    name = "Loh Juin Xian", 
+    location = "Singapore",
+    edu = "Nanyang Tehcnological University",
+    major = "Chemistry & Biological Chemistry"
+    interest = ["Energy", "Pharmaceutical", "Technology", "Leadership"], 
+    language = ["Python", "R"]
+    )
+   
+    print(about_me.generate_bio())
+
+   
+        
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
@@ -26,6 +55,6 @@
 <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" alt="R" width="40" height="40"/></a> 
 
 <h2 align="left">:tv: Favourite Youtube Videos:</h2> 
-<a href="https://youtu.be/Zo62S0ulqhA" target="_blank"><img src=https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e77007daaafb652bacbc73a3819f4165d39c06dd_1600x1200.jpg u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050.jpg" alt="What I learned from going blind in space | Chris Hadfield" width="280" height="190" border="1" /></a> <a href="https://youtu.be/WXuK6gekU1Y" target="_blank"><img src="https://pbs.twimg.com/media/DR4blG-X4AEx3Mw.jpg" 
-alt="AlphaGo - The Movie | Full award-winning documentary" width="280" height="190" border="1" /></a> <a href="https://youtu.be/bdgTa9ni4S8" target="_blank"><img src="https://dotesports.com/wp-content/uploads/2019/08/07133442/againsttheodds_02-cover_landscape.jpg?resize=768,512.jpg" 
-alt="OG's comeback to win DOTA 2's TI8 | Against The Odds" width="280" height="190" border="1" /></a>
+<a href="https://youtu.be/Zo62S0ulqhA" target="_blank"><img src=https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e77007daaafb652bacbc73a3819f4165d39c06dd_1600x1200.jpg u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050.jpg" alt="What I learned from going blind in space | Chris Hadfield" width="290" height="190" border="1" /></a> <a href="https://youtu.be/WXuK6gekU1Y" target="_blank"><img src="https://pbs.twimg.com/media/DR4blG-X4AEx3Mw.jpg" 
+alt="AlphaGo - The Movie | Full award-winning documentary" width="290" height="190" border="1" /></a> <a href="https://youtu.be/bdgTa9ni4S8" target="_blank"><img src="https://dotesports.com/wp-content/uploads/2019/08/07133442/againsttheodds_02-cover_landscape.jpg?resize=768,512.jpg" 
+alt="OG's comeback to win DOTA 2's TI8 | Against The Odds" width="290" height="190" border="1" /></a> <a href="https://youtu.be/h6fcK_fRYaI" target="_blank"><img src="https://i.ytimg.com/vi/h6fcK_fRYaI/maxresdefault.jpg" alt="The Egg - A Short Story" width="290" height="190" border="1" /></a>
