@@ -6,23 +6,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4200&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+sophomore;An+aspiring+engineer+and+analyst;Energy+%2C+Pharmaceutical+%26+Technology;)](https://git.io/typing-svg)
 
     Class AboutMe:
-            def __init__(self, name: str, location: str, education: str, major: str, research: str, interest: list, langauge: list):
-                self.name = name
-                self.location = location
-                self.education = edu
-                self.major = major
-                self.research = research
-                self.interest = interest
-                self.language = language
+        def __init__(self, name: str, location: str, education: str, major: str, research: str, interest: list, langauge: list):
+            self.name = name
+            self.location = location
+            self.education = edu
+            self.major = major
+            self.research = research
+            self.interest = interest
+            self.language = language
 
-            def generate_bio(self) -> str:
-                bio = f"""
-                Heyyy! I'm {self.name}, a {self.major} undergraduate in {self.education}, {location}. 
-                Currently, I'm doing my research by {self.research}.
-                I'm proficient in {', '.join(self.languages)} since I started learning these languages in university. 
-                My field of interest involes {', '.join(self.interest)} which I aspired to work in these fields in near future. 
-                  
-                return bio
+        def generate_bio(self) -> str:
+            bio = f"""
+            Heyyy! I'm {self.name}, a {self.major} undergraduate in {self.education}, {location}. 
+            Currently, I'm doing my research by {self.research}.
+            I'm proficient in {', '.join(self.languages)} since I started learning these languages in university. 
+            My field of interest involes {', '.join(self.interest)} which I aspired to work in these fields in near future. 
+
+            return bio
         
     about_me = AboutMe(
     name = "Loh Juin Xian", 
