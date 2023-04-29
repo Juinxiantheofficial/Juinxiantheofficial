@@ -4,7 +4,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4200&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+sophomore;An+aspiring+engineer+and+analyst;Energy+%2C+Pharmaceutical+%26+Technology;)](https://git.io/typing-svg)
-
+    
     Class AboutMe:
         def __init__(self, name: str, location: str, education: str, major: str, research: str, interest: list, langauge: list):
             self.name = name
@@ -59,3 +59,13 @@
 <a href="https://youtu.be/Zo62S0ulqhA" target="_blank"><img src=https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e77007daaafb652bacbc73a3819f4165d39c06dd_1600x1200.jpg u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050.jpg" alt="What I learned from going blind in space | Chris Hadfield" width="290" height="190" border="1" /></a> <a href="https://youtu.be/WXuK6gekU1Y" target="_blank"><img src="https://pbs.twimg.com/media/DR4blG-X4AEx3Mw.jpg" 
 alt="AlphaGo - The Movie | Full award-winning documentary" width="290" height="190" border="1" /></a> <a href="https://youtu.be/bdgTa9ni4S8" target="_blank"><img src="https://dotesports.com/wp-content/uploads/2019/08/07133442/againsttheodds_02-cover_landscape.jpg?resize=768,512.jpg" 
 alt="OG's comeback to win DOTA 2's TI8 | Against The Odds" width="290" height="190" border="1" /></a> <a href="https://youtu.be/h6fcK_fRYaI" target="_blank"><img src="https://i.ytimg.com/vi/h6fcK_fRYaI/maxresdefault.jpg" alt="The Egg - A Short Story" width="290" height="190" border="1" /></a>
+
+<h2> "Goalllazooo" <h2>
+
+https://user-images.githubusercontent.com/109280922/235322335-beb3448c-19eb-4416-b1c8-ef54a4cba880.MP4
+
+
+
+
+
+    
