@@ -27,7 +27,7 @@
     about_me = AboutMe(
     name = "Loh Juin Xian", 
     location = "Singapore",
-    edu = "Nanyang Tehcnological University",
+    edu = "Nanyang Technological University",
     major = "Chemistry & Biological Chemistry"
     research = "Using silver nanocubes to detect pneumonia patient's breath volatile organic compounds (VOC)"
     interest = ["Energy", "Pharmaceutical", "Technology", "Leadership"], 
