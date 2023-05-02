@@ -39,20 +39,20 @@
    
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/juinxianloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juinxianloh" height="30" width="40" /></a>
-<a href="https://instagram.com/juinxiantheofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juinxiantheofficial" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juinxianloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juinxianloh" height="40" width="50" /></a>
+<a href="https://instagram.com/juinxiantheofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juinxiantheofficial" height="40" width=50" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juinxiantheofficial&label=Profile%20views&color=0e75b6&style=flat" alt="juinxiantheofficial" /> </p>
 <h5 align= "center"> 📧:lohjuinxian@gmail.com <h5>
 </p>
     
 <h2 align="center">	:pen:Programming Languages</h2>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" alt="R" width="40" height="40"/></a> 
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a><a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" alt="R" width="50" height="50"/></a> 
 </p>
 
 <h2 align="center">:page_facing_up:Tools</h2>
-<p align="center"> <a href="[https://www.python.org](https://code.visualstudio.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSC" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" alt="JUPYTER" width="40" height="40"/></a>  
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" alt="R" width="40" height="40"/></a> 
+<p align="center"> <a href="[https://www.python.org](https://code.visualstudio.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSC" width="50" height="50"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" alt="JUPYTER" width="50" height="50"/></a>  
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" alt="R" width="50" height="50"/></a> 
 
 <h2 align="center">:tv:Favourite Youtube Videos</h2> 
 <p align="center"> <a href="https://youtu.be/Zo62S0ulqhA" target="_blank"><img src=https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e77007daaafb652bacbc73a3819f4165d39c06dd_1600x1200.jpg u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050.jpg" alt="What I learned from going blind in space | Chris Hadfield" width="290" height="190" border="1" /></a> <a href="https://youtu.be/WXuK6gekU1Y" target="_blank"><img src="https://pbs.twimg.com/media/DR4blG-X4AEx3Mw.jpg" 
@@ -60,9 +60,15 @@ alt="AlphaGo - The Movie | Full award-winning documentary" width="290" height="1
 alt="OG's comeback to win DOTA 2's TI8 | Against The Odds" width="290" height="190" border="1" /></a> <a href="https://youtu.be/h6fcK_fRYaI" target="_blank"><img src="https://i.ytimg.com/vi/h6fcK_fRYaI/maxresdefault.jpg" alt="The Egg - A Short Story" width="290" height="190" border="1" /></a>
 
 <h2 align="center">	Favourite Teams </h2> 
-<p align="center"> <a href="https://ogs.gg/" target="_blank"><img src=https://ogs.gg/wp-content/themes/og/dist/images/og_logo_2020.png" alt="OG" width="60" height="60" border="1" /></a>
+<p align="center"> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ogs.gg/wp-content/themes/og/dist/images/og_logo_2020.png">
+  <img alt="OG." src="https://ogs.gg/wp-content/themes/og/dist/images/og_logo_2020.png" alt="OG" width="80" height="120">
+</picture>    
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2022/2/9/uxgdknthvvsnfla76pii/oracle-red-bull-racing-logo">
+  <img alt="RB F1" src="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2022/2/9/uxgdknthvvsnfla76pii/oracle-red-bull-racing-logo" alt="OG" width="140" height="90">
+</picture>
 
 
 
-
-    
