@@ -45,7 +45,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=juinxiantheofficial&label=Profile%20views&color=0e75b6&style=flat" alt="juinxiantheofficial" /> </p>
 
 </p>
-
+    
 <h2 align="left">	:pen:  Programming Languages</h2>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" alt="R" width="40" height="40"/></a> 
 </p>
@@ -60,10 +60,8 @@
 alt="AlphaGo - The Movie | Full award-winning documentary" width="290" height="190" border="1" /></a> <a href="https://youtu.be/bdgTa9ni4S8" target="_blank"><img src="https://dotesports.com/wp-content/uploads/2019/08/07133442/againsttheodds_02-cover_landscape.jpg?resize=768,512.jpg" 
 alt="OG's comeback to win DOTA 2's TI8 | Against The Odds" width="290" height="190" border="1" /></a> <a href="https://youtu.be/h6fcK_fRYaI" target="_blank"><img src="https://i.ytimg.com/vi/h6fcK_fRYaI/maxresdefault.jpg" alt="The Egg - A Short Story" width="290" height="190" border="1" /></a>
 
-<h2> "Goalllazooo" <h2>
-
-https://user-images.githubusercontent.com/109280922/235322335-beb3448c-19eb-4416-b1c8-ef54a4cba880.MP4
-
+<h1 align="center">	Favourite Teams </h1> 
+<p align="center"> <a href="https://ogs.gg/" target="_blank"><img src=https://ogs.gg/wp-content/themes/og/dist/images/og_logo_2020.png" alt="OG" width="60" height="60" border="1" /></a>
 
 
 
