@@ -46,14 +46,15 @@
 </p>
     
 <h2 align="center">	:pen:Programming Languages</h2>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a><a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" alt="R" width="50" height="50"/></a> 
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="50"/></a><a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" alt="R" width="60" height="50"/></a> 
 </p>
 
 <h2 align="center">:page_facing_up:Tools</h2>
-<p align="center"> <a href="[https://www.python.org](https://code.visualstudio.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSC" width="50" height="50"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" alt="JUPYTER" width="50" height="50"/></a>  
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" alt="R" width="50" height="50"/></a> 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/63ecdf14766de8fcb8c60339b1dd68acfd079945/icons/excel/excel-plain.svg" alt="Excel" width="50" height="50"/></a> 
+<p align="center"> <a href="[https://www.python.org](https://code.visualstudio.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSC" width="60" height="50"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" alt="JUPYTER" width="60" height="50"/></a>  
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" alt="R" width="60" height="50"/></a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/63ecdf14766de8fcb8c60339b1dd68acfd079945/icons/excel/excel-plain.svg" alt="Excel" width="60" height="50"/></a> 
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="BI" width="60" height="50"/></a> 
 
 <h2 align="center">:tv:Favourite Youtube Videos</h2> 
 <p align="center"> <a href="https://youtu.be/Zo62S0ulqhA" target="_blank"><img src=https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e77007daaafb652bacbc73a3819f4165d39c06dd_1600x1200.jpg u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050.jpg" alt="What I learned from going blind in space | Chris Hadfield" width="290" height="190" border="1" /></a> <a href="https://youtu.be/WXuK6gekU1Y" target="_blank"><img src="https://pbs.twimg.com/media/DR4blG-X4AEx3Mw.jpg" 
