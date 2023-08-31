@@ -3,7 +3,7 @@
 <h3 align="center">It's simple. I love turning numbers into visuals, just like how I love drawing chemical structures.</h4>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4200&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+junior;An+aspiring+chemist+and+analyst;Energy+%2C+Pharmaceutical+%26+Technology;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4200&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+junior;An+aspiring+analyst;Energy+%2C+Commodity+%26+Technology;)](https://git.io/typing-svg)
     
     Class AboutMe:
         def __init__(self, name: str, location: str, education: str, major: str, research: str, interest: list, langauge: list):
@@ -30,7 +30,7 @@
     edu = "Nanyang Technological University",
     major = "Chemistry & Biological Chemistry"
     research = "Using silver nanocubes to detect pneumonia patient's breath volatile organic compounds (VOC)"
-    interest = ["Energy", "Pharmaceutical", "Technology", "Leadership"], 
+    interest = ["Energy", "Oil and Gas", "Technology", "Leadership"], 
     language = ["Python", "R"]
     )
    
