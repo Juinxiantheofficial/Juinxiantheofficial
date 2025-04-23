@@ -1,9 +1,9 @@
 
 <h1 align="center">:alembic:Why is a chemistry major doing here?:alembic:</h1>
-<h3 align="center">It's simple. I love turning numbers into visuals, just like how I love drawing chemical structures.</h4>
+<h3 align="center">It's simple. I love turning numbers into visuals, and insights into strategy.</h4>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4200&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian%2C+a+chemistry+senior;An+aspiring+engineer;Energy+%2C+Low+Carbon+Solutions+%26+Technology;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=24&duration=4200&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;I'm+Juin+Xian;An+aspiring+analyst;Energy+%2C+Low+Carbon+Solutions+%26+Technology;)](https://git.io/typing-svg)
     
     Class AboutMe:
         def __init__(self, name: str, location: str, education: str, major: str, research: str, interest: list, langauge: list):
@@ -28,9 +28,9 @@
     name = "Loh Juin Xian", 
     location = "Singapore",
     edu = "Nanyang Technological University",
-    major = "Chemistry & Biological Chemistry"
-    research = "Using silver nanocubes to detect pneumonia patient's breath volatile organic compounds (VOC)"
-    interest = ["Energy", "Oil and Gas", "Technology", "Leadership"], 
+    major = "Chemistry"
+    research = ""
+    interest = ["Energy", "Oil and Gas", "Commodities", "Leadership"], 
     language = ["Python", "R"]
     )
    
